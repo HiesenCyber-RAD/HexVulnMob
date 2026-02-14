@@ -12,7 +12,7 @@ Core flow:
 - Static challenges require reverse engineering proof tokens from source/resources and deriving flags.
 
 > [!WARNING]
-> This application is developed with the help of AI tools, if you find any issues with the applicaiton, please rainse an issue and we will try to solve them as soon as possible.
+> This application is developed with the help of AI tools, if you find any issues with the applicaiton, please raise an issue and we will try to solve them as soon as possible.
 
 ## 2. Flag Model
 
